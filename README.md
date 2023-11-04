@@ -1,4 +1,4 @@
-# QR-Code-Generator
+
 <h1 align="center">QR-Code-Generator</h1>
 
 <h2>This program in python can generate QR-Codes.</h2>
